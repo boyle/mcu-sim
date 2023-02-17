@@ -1,0 +1,14 @@
+-y
+--style=linux
+--indent=spaces=4
+--pad-oper
+--delete-empty-lines
+--align-pointer=middle
+--align-reference=middle
+--add-brackets
+#--remove-brackets
+--keep-one-line-statements
+--convert-tabs
+#--break-blocks
+--lineend=linux
+--attach-closing-while
